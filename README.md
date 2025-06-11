@@ -14,6 +14,7 @@ npx prisma generate
 # Rodar Prisma Studio 
 npx prisma studio
 
+# Extensão: Thunder Cliente para uso das rotas
 
 # Rotas disponíveis 
 GET /usuarios – Lista usuários
