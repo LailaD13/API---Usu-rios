@@ -18,7 +18,7 @@ npx prisma studio
 
 http://localhost:SuaPorta(ex:3000)/usuarios
 
-Body: 
+Body (Rota POST): 
 
 {
   "name": "teste",
