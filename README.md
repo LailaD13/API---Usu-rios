@@ -16,6 +16,16 @@ npx prisma studio
 
 # Extensão: Thunder Cliente para uso das rotas
 
+http://localhost:SuaPorta(ex:3000)/usuarios
+
+Body: 
+
+{
+  "name": "teste",
+  "email": "teste@gmail.com",
+  "age": 11
+}
+
 # Rotas disponíveis 
 GET /usuarios – Lista usuários
 
