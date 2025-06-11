@@ -5,14 +5,14 @@ API simples para gerenciamento de usuários usando Node.js, Express e Prisma com
 # Instalar dependências
 npm install
 
+# Iniciar servidor
+node server.js
+
 # Gerar cliente prisma
 npx prisma generate
 
 # Rodar Prisma Studio 
 npx prisma studio
-
-# Iniciar servidor
-node server.js
 
 
 # Rotas disponíveis 
